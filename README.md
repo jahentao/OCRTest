@@ -24,7 +24,7 @@ libs/
 ## 测试
 资源文件 resources/test.jpg
 
-![测试](resources/result.jpg)
+![测试](https://raw.githubusercontent.com/jahentao/OCRTest/master/resources/test.jpg)
 
 总共就新建了一个Sample类，其中关键是新建AipOcr。
 
@@ -40,4 +40,4 @@ AipOcr是Optical Character Recognition的Java客户端，为使用Optical Charac
 
 resources/result.jpg
 
-![结果](resources/result.jpg)
+![结果](https://raw.githubusercontent.com/jahentao/OCRTest/master/resources/result.jpg)
