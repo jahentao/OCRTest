@@ -40,4 +40,4 @@ AipOcr是Optical Character Recognition的Java客户端，为使用Optical Charac
 
 resources/result.jpg
 
-![结果](https://raw.githubusercontent.com/jahentao/OCRTest/master/resources/result.jpg)
+![结果](https://raw.githubusercontent.com/jahentao/OCRTest/master/resources/result.png)
